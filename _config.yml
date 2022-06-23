@@ -1,6 +1,6 @@
 # Site settings
-title: 'fuckups blog'
-description: 'i can haz cheezburger?'
+title: 'fuckups'
+description: 'Guest Domain Admin'
 url: 'http://fuckup1337.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
